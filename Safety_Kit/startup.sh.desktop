@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/mano/Safety_Kit/startup.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=MM service
+Name=MM service
+Comment[en_US]=
+Comment=

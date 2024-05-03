@@ -1,0 +1,3 @@
+/home/mano/Safety_Kit/build/CMakeFiles/rebuild_cache.dir
+/home/mano/Safety_Kit/build/CMakeFiles/safety_app.dir
+/home/mano/Safety_Kit/build/CMakeFiles/edit_cache.dir
